@@ -1,0 +1,6 @@
+@TechSaas_HostAddress = http://localhost:5160
+
+GET {{TechSaas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
